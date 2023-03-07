@@ -1,0 +1,12 @@
+body{
+    background-color: #eee;
+    height: 5000px;
+}
+.scroll{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 5px;
+    background-color: darkblue;
+}
